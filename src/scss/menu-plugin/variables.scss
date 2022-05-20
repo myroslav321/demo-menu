@@ -5,8 +5,8 @@ $sm-menu-width: 580px;
 $sm-menu-padding-left: 5.63rem;
 $sm-menu-padding-right: 3.75rem;
 
-$sm-transition-dur: 300ms;
-$sm-transition-easing: ease-in-out;
+$sm-transition-dur: 500ms;
+$sm-transition-easing: cubic-bezier(0.4, 0, 0.2, 1);
 
 $sm-menu-background: #343A40;
 $sm-menu-text-link-color: #fff;
